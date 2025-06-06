@@ -3,4 +3,5 @@
     <string name="fab_text">Floating Action button</string>
     <string name="no_movies_text">No movies found</string>
     <string name="search">Search</string>
+    <string name="coomit1">MVCmovies</string>
 </resources>
